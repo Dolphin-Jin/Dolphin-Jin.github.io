@@ -16,14 +16,14 @@ layouts_gallery:
   - url: /assets/images/about/졸업식.jpg
     image_path: /assets/images/about/졸업식.jpg
     alt: "Graduation pictures"
-  - url: /assets/images/about/졸업식.jpg
-    image_path: /assets/images/about/졸업식.jpg
+  - url: /assets/images/about/장교.jpg
+    image_path: /assets/images/about/장교.jpg
     alt: "Officer pictures"
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 
-{% include gallery id="layouts_gallery" caption="내 사진들, My pictures..." %}
+{% include gallery id="layouts_gallery" caption="Pictures of Dolphin-Jin" %}
 
 ## Korean
 
