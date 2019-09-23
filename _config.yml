@@ -77,19 +77,19 @@ google:
   search_engine_id       : 000709730900062750349:cncfbn49kzz
   instant_search         : true
 # SEO Related
-google_site_verification :
+google_site_verification : -vlra802CiiX2ObMeOPPfk7unwBt6tckd1VdwNqWxDA
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : 44f3d7a42b2849d4388c7593a980e7f03bc640b2
 
 # Social Sharing
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "sjbae1996"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/config/logo(88x88).png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
