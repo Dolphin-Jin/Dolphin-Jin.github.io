@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Introduce about Dolphin-Jin(BSJ)"
+excerpt: "Introduce about SharkBSJ"
 last_modified_at: 2019-09-28T16:46:43+09:00
 layouts_gallery:
   - url: /assets/images/about/몽골.jpg
@@ -16,14 +16,15 @@ layouts_gallery:
   - url: /assets/images/about/졸업식.jpg
     image_path: /assets/images/about/졸업식.jpg
     alt: "Graduation pictures"
-  - url: /assets/images/about/장교.JPG
-    image_path: /assets/images/about/장교.JPG
+  - url: /assets/images/about/장교.jpg
+    image_path: /assets/images/about/장교.jpg
     alt: "Officer pictures"
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
 
-{% include gallery id="layouts_gallery" caption="Pictures of Dolphin-Jin" %}
+지금의 나는 우주의 처음과 끝을 통틀어 한 번 뿐이기에, 삶은 삶답게 긍정적인 에너지가 넘치는 삶을 살고싶습니다.
+{% include gallery id="layouts_gallery" caption="Pictures of SharkBSJ" %}
 
 ## Korean
 
@@ -36,6 +37,3 @@ toc: true
 - Republic of Korea Army Officer (June 2019 ~ Present)
 
 ---
-
-반갑습니다.
-Welcome
