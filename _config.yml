@@ -16,23 +16,23 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Dolphin-Jin"
+title                    : "SharkBSJ"
 title_separator          : "/"
 subtitle                 : "Computer Science & Life"
-name                     : "BSJ"
-description              : "Dolphin-Jin's Blog about Computer Science & Life"
-url                      : "https://Dolphin-jin.github.io"
+name                     : "SharkBSJ"
+description              : "SharkBSJ's Blog about Computer Science & Life"
+url                      : "https://SharkBSJ.github.io"
 baseurl                  : 
-repository               : "Dolphin-jin/Dolphin-Jin.git.io"
+repository               : "SharkBSJ/SharkBSJ.git.io"
 teaser                   : "/assets/images/config/default_teaser(500x300).jpg"
 logo                     : "/assets/images/config/logo(88x88).png"
-masthead_title           : "Dolphin-Jin"
+masthead_title           : "SharkBSJ"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "dolphin-jins-blog.disqus.com"
+    shortname            : "sharkbsj-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -61,8 +61,8 @@ staticman:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
-  siteKey                : "6LcQwrkUAAAAAI4uNeyv_UUphK0pdiUTW_GNL5oJ"
-  secret                 : "6LcQwrkUAAAAAHGhhkb3QI9MexiJqwbv08HdiR7p"
+  siteKey                : "6LeB2roUAAAAAM53VuJDyKfDZXw39ZRnerSHs0Pg"
+  secret                 : "6LeB2roUAAAAABIFQkrjZibpH9dmYQI8sDFP17gb"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
@@ -74,10 +74,10 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 000709730900062750349:cncfbn49kzz
+  search_engine_id       : 016852543435679094695:c9dzcllbesm
   instant_search         : true
 # SEO Related
-google_site_verification : -vlra802CiiX2ObMeOPPfk7unwBt6tckd1VdwNqWxDA
+google_site_verification : IS8p4EOe6NwtxqGR-Iu7z-IbmFFrg029u_Qs0OcZdtk
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  : 44f3d7a42b2849d4388c7593a980e7f03bc640b2
@@ -97,13 +97,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://instagram.com/sjbae1996"
-    - "https://github.com/Dolphin-Jin"
+    - "https://github.com/SharkBSJ"
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
-    tracking_id          : "UA-148482541-1"
+    tracking_id          : "UA-148884750-1"
     anonymize_ip         : false
 
 
@@ -129,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Dolphin-Jin"
+      url: "https://github.com/SharkBSJ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sjbae1996"
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Dolphin-Jin"
+      url: "https://github.com/SharkBSJ"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
