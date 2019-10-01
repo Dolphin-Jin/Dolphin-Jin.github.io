@@ -24,7 +24,7 @@ description              : "SharkBSJ's Blog about Computer Science & Life"
 url                      : "https://SharkBSJ.github.io"
 baseurl                  : 
 repository               : "SharkBSJ/SharkBSJ.git.io"
-teaser                   : "/assets/images/config/default_teaser(500x300).jpg"
+teaser                   : "/assets/images/config/default_teaser.jpg"
 logo                     : "/assets/images/config/logo(88x88).png"
 masthead_title           : "SharkBSJ"
 breadcrumbs              : true
@@ -89,7 +89,7 @@ facebook:
   username               : "sjbae1996"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/config/logo(88x88).png"
+og_image                 : "/assets/images/config/og_imgae.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "BSJ"
+  name             : "SharkBSJ"
   avatar           : "/assets/images/config/bio-photo.jpeg"
   bio              : "I am **Dreaming** and **Dreaming**."
   location         : "Republic of Korea"
@@ -291,7 +291,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
