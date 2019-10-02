@@ -2,6 +2,7 @@
 title: "《군주론(君主論, 이탈리아어: Il Principe [il ˈprintʃipe], 영어: The Prince)》 책 리뷰"
 header:
   og_image: /assets/images/posts/The_Prince_Cover.jpg
+  teaser: /assets/images/posts/The_Prince_Cover.jpg
 categories:
   - Book
 tags:
