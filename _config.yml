@@ -25,7 +25,7 @@ url                      : "https://SharkBSJ.github.io"
 baseurl                  : 
 repository               : "SharkBSJ/SharkBSJ.git.io"
 teaser                   : "/assets/images/config/default_teaser.jpg"
-logo                     : "/assets/images/config/logo(88x88).png"
+logo                     : "/assets/images/config/logo(88x88).png" # Do not change the name of picture, Becuz It's used for title icon
 masthead_title           : "SharkBSJ"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -89,7 +89,7 @@ facebook:
   username               : "sjbae1996"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/config/og_imgae.png"
+og_image                 : "/assets/images/config/og_image.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

@@ -4,11 +4,11 @@ title: "About"
 excerpt: "Introduce about SharkBSJ"
 last_modified_at: 2019-09-28T16:46:43+09:00
 layouts_gallery:
-  - url: /assets/images/about/몽골.jpg
-    image_path: /assets/images/about/몽골.jpg
+  - url: /assets/images/about/mongolia.jpg
+    image_path: /assets/images/about/mongolia.jpg
     alt: "Mongolia travel photos"
-  - url: /assets/images/about/러시아.png
-    image_path: /assets/images/about/러시아.png
+  - url: /assets/images/about/russia.png
+    image_path: /assets/images/about/russia.png
     alt: "Russia travel pictures"
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
