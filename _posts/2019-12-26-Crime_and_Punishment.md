@@ -1,8 +1,8 @@
 ---
 title: "《죄와 벌》 책 리뷰"
 header:
-  og_image: /assets/images/posts/Crime_and_Punishment.jpg
-  teaser: /assets/images/posts/Crime_and_Punishment.jpg
+  og_image: /assets/images/posts/Crime_and_Punishment_Cover.jpg
+  teaser: /assets/images/posts/Crime_and_Punishment_Cover.jpg
 categories:
   - Book
 tags:
@@ -12,7 +12,7 @@ tags:
 last_modified_at: 2019-12-27T18:12:19+09:00
 ---
 
-![《죄와 벌》 책 표지]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Crime_and_Punishment.jpg)
+![《죄와 벌》 책 표지]({{ site.url }}{{ site.baseurl }}/assets/images/posts/Crime_and_Punishment_Cover.jpg)
 
 도스토예프스키의 《죄와 벌》이라는 책은 대부분의 사람이 들어봤을 만큼 유명한 작품 중 하나이다. 아주 어렸을 때 읽었기에 나의 따듯한 집 서랍장에 꽂혀있었다. <br/>
 

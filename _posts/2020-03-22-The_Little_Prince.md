@@ -1,8 +1,8 @@
 ---
 title: "《어린왕자》 책 리뷰"
 header:
-  og_image: /assets/images/posts/The_Little_Prince.jpg
-  teaser: /assets/images/posts/The_Little_Prince.jpg
+  og_image: /assets/images/posts/The_Little_Prince_Cover.jpg
+  teaser: /assets/images/posts/The_Little_Prince_Cover.jpg
 categories:
   - Book
 tags:
@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2020-03-22T21:35:19+09:00
 ---
 
-![《어린왕자》 책 표지]({{ site.url }}{{ site.baseurl }}/assets/images/posts/The_Little_Prince.jpg)
+![《어린왕자》 책 표지]({{ site.url }}{{ site.baseurl }}/assets/images/posts/The_Little_Prince_Cover.jpg)
 
 나의 어린 시절 가장 좋아했던 책이라면 어린왕자를 고를 만큼 나에게 있어서 의미있는 책이다. 만화책으로 읽고 동화로도 읽고, 읽을 때마다 고요한 분위기와 아름다운 표현들이 나의 가슴을 자극했다. <br/>
 그런 느낌들은 어린시절 나에게는 말로 표현이 안 되고 행동인 여러 번 책을 읽는 것으로 표현했다. <br/>
